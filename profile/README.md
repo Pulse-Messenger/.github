@@ -2,7 +2,8 @@
 <h1 align="center" style='font-weight: 600; font-style: italic; text-align: center;'>Pulse Messenger</h1>
 
 <div align="center">
-<img src="./Logo.svg" alt="logo" width="256" />
+<img src="https://raw.githubusercontent.com/Pulse-Messenger/.github/main/profile/Logo.svg" alt="logo" width="256" />
+
 </div>
 
 <h3>Pulse Messenger is a graduation project developed by <a href="https://github.com/dstuden">David Studen</a><h3>
