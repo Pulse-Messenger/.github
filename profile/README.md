@@ -10,9 +10,9 @@
 
 <h4 style='font-weight: 600;' >Main Techologies used</h4>
 <ul>
-<li>Node.JS</li>
-<li>Vue.JS</li>
+<li>Node.js</li>
+<li>Vue.js</li>
 <li>Mongo DB</li>
 <li>Typescript</li>
-<li>Nest.JS</li>
+<li>Express.js</li>
 </ul>
